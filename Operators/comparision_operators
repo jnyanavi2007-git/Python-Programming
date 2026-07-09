@@ -1,0 +1,25 @@
+a = 10
+b = 20
+
+print("a =", a)
+print("b =", b)
+
+print("\nComparison Operators")
+print("a == b:", a == b)
+print("a != b:", a != b)
+print("a > b :", a > b)
+print("a < b :", a < b)
+print("a >= b:", a >= b)
+print("a <= b:", a <= b)
+
+Output:
+a = 10
+b = 20
+
+Comparison Operators
+a == b: False
+a != b: True
+a > b : False
+a < b : True
+a >= b: False
+a <= b: True
