@@ -1,0 +1,15 @@
+age = 19          #int 
+height = 1.65     #float
+grade = 'A'       #str
+is_student = True #bool
+
+print("Age:", age) 
+print("Height", height)
+print("Grade", grade)
+print("Student", is_student)
+
+Output:
+Age: 19          
+Height: 1.65     
+Grade: A   
+Student: True 
