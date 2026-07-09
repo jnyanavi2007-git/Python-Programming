@@ -1,0 +1,12 @@
+name = "Jnyanavi"
+branch = "ECE"
+cgpa = 9.18
+
+print("Name:", name)
+print("Branch:", branch)
+print("CGPA:", cgpa)
+
+Output:
+Name: Jnyanavi
+Branch: ECE
+CGPA: 9.18
