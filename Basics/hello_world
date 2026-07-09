@@ -1,5 +1,7 @@
-x = "Hello, World!"
-print(x)
+
+print("Hello, World!")
+printf("Welcome to Python Programming!")
 
 Output:
 Hello, World!
+Welcome to Python Programming!
