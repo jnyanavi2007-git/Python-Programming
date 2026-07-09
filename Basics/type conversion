@@ -1,0 +1,14 @@
+num = 25
+print("Original:", num)
+print("Type:", type(num))
+
+num = int(num)
+
+print("Convertedl:", num)
+print("Type:", type(num))
+
+Output:
+Original: 25
+Type: <class 'str'>
+Converted: 25
+Type: <class 'int'>
