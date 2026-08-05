@@ -1,0 +1,14 @@
+number = int(input("Enter an integer: "))
+
+if number % 2 == 0:
+    print("{number} is an Even number.")
+else:
+    print("{number} is an Odd number.")
+
+Output:
+Enter an integer: 8
+8 is an Even number.
+
+//or
+Enter an integer: 13
+13 is an Odd number.
