@@ -1,0 +1,39 @@
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+print("Addition       = {num1 + num2}")
+print("Subtraction    = {num1 - num2}")
+print("Multiplication = {num1 * num2}")
+
+if num2 != 0:
+    print("Division       = {num1 / num2}")
+    print("Floor Division = {num1 // num2}")
+    print("Modulus        = {num1 % num2}")
+else:
+    print("Division       = Cannot divide by zero")
+    print("Floor Division = Cannot divide by zero")
+    print("Modulus        = Cannot divide by zero")
+
+print(f"Exponentiation = {num1 ** num2}")
+
+Output:
+Enter the first number: 10
+Enter the second number: 3
+
+Addition       = 13.0
+Subtraction    = 7.0
+Multiplication = 30.0
+Division       = 3.3333333333333335
+Floor Division = 3.0
+Modulus        = 1.0
+Exponentiation = 1000.0
+
+//or
+
+Addition       = 10.0
+Subtraction    = 10.0
+Multiplication = 0.0
+Division       = Cannot divide by zero
+Floor Division = Cannot divide by zero
+Modulus        = Cannot divide by zero
+Exponentiation = 1.0
